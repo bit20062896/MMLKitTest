@@ -1,0 +1,6 @@
+framework module MML {
+  umbrella header "MML.h"
+
+  export *
+  module * { export * }
+}
